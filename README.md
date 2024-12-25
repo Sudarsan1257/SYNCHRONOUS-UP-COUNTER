@@ -39,6 +39,7 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 4.Output the shifted bit from the last stage of the register.
 
 5.Repeat steps 2-4 for each bit you want to input and shift.
+
 **PROGRAM**
 
 ![Screenshot 2024-12-25 160121](https://github.com/user-attachments/assets/2db39b67-0b81-416c-a033-2755ff3d3bd3)
